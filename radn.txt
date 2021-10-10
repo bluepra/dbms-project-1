@@ -1,0 +1,12 @@
+.separator | \n
+.import items.dat Items
+update Items set * = null where * = 'NULL';
+
+.import users.dat Users
+update Users set * = null where * = 'NULL';
+
+.import bids.dat Bids
+update Bids set * = null where * = 'NULL';
+
+.import categories.dat Categories
+update Categories set * = null where * = 'NULL';

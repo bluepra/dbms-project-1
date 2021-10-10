@@ -1,0 +1,6 @@
+.read ./queries/query1.sql
+.read ./queries/query2.sql
+.read ./queries/query4.sql
+.read ./queries/query5.sql
+.read ./queries/query6.sql
+.read ./queries/query7.sql

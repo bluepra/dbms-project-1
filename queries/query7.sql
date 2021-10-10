@@ -1,1 +1,1 @@
-SELECT COUNT(*) FROM Bids WHERE Bids.Amount > 100;
+SELECT * FROM Bids WHERE Bids.Amount > 100 LIMIT 10;
