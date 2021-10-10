@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM Bids WHERE Bids.Amount > 100;
